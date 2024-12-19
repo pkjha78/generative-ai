@@ -132,6 +132,10 @@ py-env/
 env.bak/
 venv.bak/
 
+#Streamlit project settings
+secrets.toml
+__pycache__
+
 # Spyder project settings
 .spyderproject
 .spyproject
